@@ -28,7 +28,7 @@
  [Java (v 8+)](https://www.oracle.com/java/technologies/downloads/)
  
   # Frameworks Used
-  ![image](https://github.com/Mr-Anubhav-pandey/TicTacToe/blob/main/resources/code.png)
+  ![image](https://github.com/Mr-Anubhav-pandey/Tic-Tac-Toe/blob/main/resources/code.png)
   
   # Optimization Required
   - [ ] Too Much CPU Expensive
