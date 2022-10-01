@@ -21,7 +21,7 @@
 
 </p>
 <p align="center">
-  <img src="https://github.com/Mr-Anubhav-pandey/TicTacToe/blob/main/resources/tictactoe.gif" alt="animated" />
+  <img src="https://github.com/Mr-Anubhav-pandey/Tic-Tac-Toe/blob/main/resources/tictactoe.gif" alt="animated" />
 </p>
 
  ## Prerequisite
